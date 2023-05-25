@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "630483328428",
+    "project_id": "lapshopecom",
+    "storage_bucket": "lapshopecom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630483328428:android:c533a359b197503225ae09",
+        "android_client_info": {
+          "package_name": "com.example.flapshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630483328428-bfi48l5lq7kd4rba83tf08e1s5lq6k3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flapshop",
+            "certificate_hash": "cbfbab274badd65effc31955bd97e1669d18d550"
+          }
+        },
+        {
+          "client_id": "630483328428-eahij4ucip4749inhe5pqgue3jgkgian.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiHCGxVbG2YkB8j7LPmS2F5AeI3X1wHaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630483328428-eahij4ucip4749inhe5pqgue3jgkgian.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
