@@ -1,0 +1,83 @@
+{
+    "categories": [
+        {
+            "name": "Laptop",
+            "subCategory": [
+                "Dell",
+                "Hp",
+                "ASUS",
+                "Lenovo"
+            ]
+        },
+        {
+            "name": "RAM",
+            "subCategory": [
+                "G Skill",
+                "HyperX",
+                "ADATA",
+                "Corsair"
+            ]
+        },
+        {
+            "name": "SSD",
+            "subCategory": [
+                "Samsung",
+                "Crucial",
+                "Intel",
+                "Western Digital"
+            ]
+        },
+        {
+            "name": "HardDisk",
+            "subCategory": [
+                "Seagate BarraCuda",
+                "Western Digital",
+                "Seagate Firecuda",
+                "Seagate IronWolf"
+            ]
+        },
+        {
+            "name": "Processor",
+            "subCategory": [
+                "Intel",
+                "AMD"
+            ]
+        },
+        {
+            "name": "Keyboard",
+            "subCategory": [
+                "Logitech",
+                "Microsoft",
+                "Razer",
+                "Corsair"
+            ]
+        },
+        {
+            "name": "Cases",
+            "subCategory": [
+                "Corsair",
+                "NZXT",
+                "Cooler Master",
+                "Lian-Li"
+            ]
+        },
+        {
+            "name": "GPU",
+            "subCategory": [
+                "Nvidia",
+                "ASUS",
+                "AMD",
+                "Intel"
+            ]
+        },
+        {
+            "name": "Mouse",
+            "subCategory": [
+                "Logitech",
+                "Razer",
+                "SteelSeries",
+                "Corsair"
+            ]
+        }
+    ]
+}
